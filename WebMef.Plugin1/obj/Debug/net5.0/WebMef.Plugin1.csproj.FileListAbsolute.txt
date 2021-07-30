@@ -1,0 +1,15 @@
+D:\DemoTest\C#\WebMefDemo\WebMef.Plugin1\bin\Debug\net5.0\WebMef.Plugin1.deps.json
+D:\DemoTest\C#\WebMefDemo\WebMef.Plugin1\bin\Debug\net5.0\WebMef.Plugin1.dll
+D:\DemoTest\C#\WebMefDemo\WebMef.Plugin1\bin\Debug\net5.0\ref\WebMef.Plugin1.dll
+D:\DemoTest\C#\WebMefDemo\WebMef.Plugin1\bin\Debug\net5.0\WebMef.Plugin1.pdb
+D:\DemoTest\C#\WebMefDemo\WebMef.Plugin1\bin\Debug\net5.0\WebMef.Core.dll
+D:\DemoTest\C#\WebMefDemo\WebMef.Plugin1\bin\Debug\net5.0\WebMef.Core.pdb
+D:\DemoTest\C#\WebMefDemo\WebMef.Plugin1\obj\Debug\net5.0\WebMef.Plugin1.csproj.AssemblyReference.cache
+D:\DemoTest\C#\WebMefDemo\WebMef.Plugin1\obj\Debug\net5.0\WebMef.Plugin1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoTest\C#\WebMefDemo\WebMef.Plugin1\obj\Debug\net5.0\WebMef.Plugin1.AssemblyInfoInputs.cache
+D:\DemoTest\C#\WebMefDemo\WebMef.Plugin1\obj\Debug\net5.0\WebMef.Plugin1.AssemblyInfo.cs
+D:\DemoTest\C#\WebMefDemo\WebMef.Plugin1\obj\Debug\net5.0\WebMef.Plugin1.csproj.CoreCompileInputs.cache
+D:\DemoTest\C#\WebMefDemo\WebMef.Plugin1\obj\Debug\net5.0\WebMef.Plugin1.csproj.CopyComplete
+D:\DemoTest\C#\WebMefDemo\WebMef.Plugin1\obj\Debug\net5.0\WebMef.Plugin1.dll
+D:\DemoTest\C#\WebMefDemo\WebMef.Plugin1\obj\Debug\net5.0\ref\WebMef.Plugin1.dll
+D:\DemoTest\C#\WebMefDemo\WebMef.Plugin1\obj\Debug\net5.0\WebMef.Plugin1.pdb
